@@ -3,7 +3,7 @@
   "app_name": "Calculate",
   "maintenance": false,
   "maintenance_msg": "App is under maintenance. Please try again later.",
-  "latest_version_code": 2,
+  "latest_version_code": 1,
   "force_update": false,
   "update_title": "New Update Available",
   "update_message": "A new version of the app is available with new features and improvements.",
